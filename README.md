@@ -21,5 +21,5 @@ I love diving into the world of coding and constantly expanding my knowledge. My
 <h1 align="center">Discord</h3>
 <div align="center">
 <a href="https://discord.com/users/535750341053120522" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1114931409698697288" alt="Barqoqa">
+    <img src="https://lanyard.cnrad.dev/api/1114931409698697288" alt="Phoenix">
 </a>
