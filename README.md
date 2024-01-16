@@ -20,6 +20,6 @@ I love diving into the world of coding and constantly expanding my knowledge. My
 
 <h1 align="center">Discord</h3>
 <div align="center">
-<a href="https://discord.com/users/535750341053120522" target="_blank">
+<a href="https://discord.com/users/1114931409698697288" target="_blank">
     <img src="https://discord.c99.nl/widget/theme-2/1114931409698697288.png" alt="Phoenix">
 </a>
